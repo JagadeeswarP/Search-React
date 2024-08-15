@@ -11,7 +11,7 @@
 }
 .search_input .search_icon{
   font-size: 30px;
-  color: blue;
+  color: #1E90FF;
   position: absolute;
   margin-left: 90px;
   margin-top: 11px;
@@ -21,7 +21,7 @@
 .course_wrapper{
   width: 100%;
   display: grid;
-  background: rgb(245, 245, 255);
+  background: #f8f9fa;
 }
 .course_wrapper h2{
   margin-top: 50px;
@@ -30,7 +30,7 @@
   font-size: 35px;
 }
 .course_wrapper h2 span{
-  color: rgb(59, 59, 223);
+  color: #007BFF;
 }
 .course_container {
   display: grid;
@@ -58,7 +58,7 @@
   margin-bottom: .5rem; 
 } 
 .course_price {
-  color: rgb(59, 59, 223);
+  color: #FF4500; 
   display: block;
   margin-bottom: 1rem;
   font-size: 22px;
@@ -66,7 +66,7 @@
 } 
 .course_standard{
   font-size: 16px;
-  color: #8d8c8c;
+  color: #6c757d;
 }
 .course_standard .analytics{
   font-size: 18px;
@@ -75,7 +75,7 @@
 }
 .course_button{
   display: inline-block;
-  background-color: #0041C2;
+  background-color: #007BFF;
   border: none;
   border-radius: 30px;
   color: white;
@@ -86,7 +86,7 @@
   transition: .3s;
 }
 .course_card:hover {
-  box-shadow: 0 8px 32px hsla(0, 0%, 10%, .1);
+  box-shadow: 0 8px 32px rgba(0, 123, 255, 0.2);
 }
 @media (max-width: 480px){
   .course_container {
