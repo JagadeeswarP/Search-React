@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 "# Search-React" 
 
 
-Just a basic Search Functionality
+Just a basic Search Functionality.
